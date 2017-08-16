@@ -1,3 +1,10 @@
+# @author   Lee
+# @date     2017.08.16
+# @DO       调整cookie格式
+
+
+
+
 class transCookie:
     def __init__(self, cookie):
         self.cookie = cookie
